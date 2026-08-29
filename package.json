@@ -1,0 +1,30 @@
+{
+  "name": "rag-chunking-simulator",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Interactive and programmatic simulator for RAG chunking strategies, vector database RAM footprints, and embedding cost projections.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "bin": {
+    "rag-chunk-sim": "dist/cli.js"
+  },
+  "scripts": {
+    "test": "node --test tests/chunker.test.ts"
+  },
+  "keywords": [
+    "rag",
+    "retrieval-augmented-generation",
+    "vector-search",
+    "chunking",
+    "embeddings",
+    "hnsw",
+    "vector-database"
+  ],
+  "author": "Gordon Geraghty",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gordongeraghty/rag-chunking-simulator"
+  },
+  "homepage": "https://gordongeraghty.com/resources/ai-engineering/rag-chunking-simulator"
+}
