@@ -153,8 +153,8 @@ const preview = simulateTextChunking(
 
 ## Related Tools
 
-- [Hosted Interactive RAG Chunking Simulator](https://gordongeraghty.com/resources/ai-engineering/rag-chunking-simulator) — Full visual web calculator with live sliding window boundary previews.
-- [GA4 BigQuery SQL Builder](https://gordongeraghty.com/resources/gtm-analytics/ga4-bigquery-sql-library) — Query library for raw event analytics.
+- [Hosted Interactive RAG Chunking Simulator](https://gordongeraghty.com/resources/ai-engineering/rag-chunking-embedding-benchmark) — Full visual web calculator with live sliding window boundary previews.
+- [GA4 BigQuery SQL Builder](https://gordongeraghty.com/resources/gtm-analytics/ga4-bigquery-sql-query-library) — Query library for raw event analytics.
 
 ---
 
